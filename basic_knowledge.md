@@ -25,3 +25,39 @@ Definition: A function that is both injective and surjective.
 Significance: A function has a two-sided inverse f 
 −1
  :Y→X if and only if it is bijective.
+
+
+
+binary operation:
+
+polar cordinate system:
+$(x, y)$ -> $(r, \theta)$
+
+Here is a clear comparison between Polar Coordinates and Orthogonal (Cartesian) Coordinates:
+
+
+$r$ (Radius / Distance): How far away the point is straight from the origin.
+$\theta$ (Angle): The direction (rotation angle) measured counter-clockwise from the positive $x$-axis.
+
+why demoivre's theorem works like that?
+$$(\cos \theta + i \sin \theta)^n = \cos(n\theta) + i \sin(n\theta)$$
+
+
+it is derived from euler's formula
+
+$$\color{blue}e^{i\theta} = \cos\theta + i\sin\theta$$
+
+because it uses maculrian series's idea.
+
+*
+$$\cos(\theta_1 + \theta_2) = \cos\theta_1 \cos\theta_2 - \sin\theta_1 \sin\theta_2$$
+*
+$$\sin(\theta_1 + \theta_2) = \sin\theta_1 \cos\theta_2 + \cos\theta_1 \sin\theta_2$$
+
+
+**determinant
+
+if  $\det(A) \neq 0$
+
+
+
